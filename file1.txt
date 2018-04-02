@@ -1,0 +1,7 @@
+This is the first file
+
+It contains these letters
+
+And this line
+
+The assignment calls for a program, but I think a simple file should be good enough
